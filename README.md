@@ -14,3 +14,11 @@ Desarrollar una aplicación que proporcione herramientas interactivas y fáciles
 - **Institución:** [CETis61]
 
 <img src="Gael1.jpg" alt="Mi Foto" >
+
+**integrante 1**
+- **Nombre completo:** Mireles Mendez Yesenia
+- **Correo electrónico:** [23308060610600@cetis61.edu.mx]
+- **Especialidad:** [Programacion]
+- **Institución:** [CETis61]
+
+<img src="Gael1.jpg" alt="Mi Foto" >
