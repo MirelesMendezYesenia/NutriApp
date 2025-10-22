@@ -13,7 +13,7 @@ Desarrollar una aplicación que proporcione herramientas interactivas y fáciles
 - **Especialidad:** [Programacion]
 - **Institución:** [CETis61]
 
-<img src="Gael1.jpg" alt="Mi Foto" widht = "200">
+<img src="Gael1.jpg" alt="Mi Foto" >
 
 **integrante 1**
 - **Nombre completo:** Mireles Mendez Yesenia
@@ -21,4 +21,5 @@ Desarrollar una aplicación que proporcione herramientas interactivas y fáciles
 - **Especialidad:** [Programacion]
 - **Institución:** [CETis61]
 
-<img src="Yesenia.jpg" alt="Mi Foto  widht = "200" >
+- <img src="Yesenia.jpg" alt="Mi Foto" >
+
